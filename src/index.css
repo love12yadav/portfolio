@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Apply full-screen background only to body */
+
+body, html {
+  background: none !important;
+  background-image: none !important;
+}
