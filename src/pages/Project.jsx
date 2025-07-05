@@ -26,7 +26,7 @@ export default function Projects() {
       voice commands and clap detection. Integrates speech recognition and sound detection to
       switch tracks, pause, or play — hands-free! Backend provides song data and stream URLs.`,
       github: 'https://github.com/love12yadav/songfront',
-      demo: 'https://justlisten-pi.vercel.app',
+      
       
     },
   ];
