@@ -79,7 +79,7 @@ function HomeSection() {
               />
             </a>
             <a
-              href="https://www.instagram.com/_.love_yadav_/"
+              href="https://www.instagram.com/_ydvlove_/"
               target="_blank"
               rel="noopener noreferrer"
             >
